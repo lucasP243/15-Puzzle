@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\bin\Release\Projet_Taquin_IHMVB.exe.config
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\bin\Release\Projet_Taquin_IHMVB.exe
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\bin\Release\Projet_Taquin_IHMVB.pdb
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\bin\Release\Projet_Taquin_IHMVB.xml
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.vbprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.Jeu.resources
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.MenuParamètres.resources
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.MenuAccueil.resources
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.Resources.resources
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.TableDesScores.resources
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.vbproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.exe
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.xml
+C:\Users\lucas\Desktop\Projet_Taquin_IHMVB\obj\Release\Projet_Taquin_IHMVB.pdb
